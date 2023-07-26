@@ -1,9 +1,9 @@
 const theme = {
-  roundness: 14,
+  roundness: 10,
   colors: {
     textPrimary: "#24292e",
     textSecondary: "#586069",
-    primary: "#0366d6",
+    primary: "#8c72db",
     appBarBackground: '#12b3db',
     mainBackground: '#dfeaed',
   },
