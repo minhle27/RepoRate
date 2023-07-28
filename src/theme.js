@@ -8,7 +8,7 @@ const theme = {
     languageBox: "#8c72db",
     primary: "#0366d6",
     appBarBackground: "#12b3db",
-    mainBackground: "#dfeaed",
+    mainBackground: "#e1e4e8",
     error: "#d73a4a",
     divider: "#d1d5da",
   },
