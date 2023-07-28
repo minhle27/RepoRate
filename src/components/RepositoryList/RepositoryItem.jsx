@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
   languageText: {
     color: "white",
-    backgroundColor: theme.colors.primary,
+    backgroundColor: theme.colors.languageBox,
     borderRadius: theme.roundness,
     paddingVertical: 3,
     paddingHorizontal: 6,
